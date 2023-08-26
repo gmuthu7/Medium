@@ -1,0 +1,3 @@
+Are we just unique functions?
+Sounds like a weird question doesn't it? With recent advancements in machine learning and especially, Reinforcement Learning (RL), we are getting closer and closer towards AGI.
+If Neil Armstrong took one giant step for mankind on the moon, ChatGPT did the same for AI on earth. ChatGPT is, at its core, a parameterised function approximator and the parameters are the weights of the neural network. It is trained on pretty much everything that's available on the internet but the end result is a function with a unique set of weights.
