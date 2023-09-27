@@ -1,0 +1,2 @@
+Math behind Reinforcement Learning
+In this article, we will go over some of the most frequently used math used in reinforcement learning.
