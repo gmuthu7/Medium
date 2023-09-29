@@ -1,2 +1,2 @@
 Math behind Reinforcement Learning
-In this article, we will go over some of the most frequently used math used in reinforcement learning.
+In this article, we will go over some of the most frequently used math used in reinforcement learning. Although the prerequisites for RL are similar to machine learning i.e linear algebra, probability and statistics and calculus, RL has a heavy dependence on probability and statistics .
